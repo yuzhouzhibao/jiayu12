@@ -2,7 +2,7 @@
 
 ## 1. 基本信息
 
-- 作者: GMCY
+- 作者: Yu
 - 系列: 复刻系列
 - 网站: [米哈游官网-复刻的](https://gmcy2020.github.io/Reprint-MiHoYo-Web/)
 - 仓库: [GitHub](https://github.com/GMCY2020/Reprint-MiHoYo-Web) | [Gitee](https://gitee.com/GMCY2020/Reprint-MiHoYo-Web)
